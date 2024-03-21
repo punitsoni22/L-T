@@ -18,7 +18,7 @@ void rectangle(int a,int b){
     cout<<"area of rectangle is: "<<a*b<<endl;
 }
 void triangle(int a,int b){
-    cout<<"area of rectangle is: "<<a*b/2<<endl;
+    cout<<"area of triangle is: "<<a*b/2<<endl;
 }
 void square(int a){
     cout<<"square of this is: "<<a*a<<endl;
